@@ -4,7 +4,7 @@ Hi, Chenxi here. I am currently a sophomore at University of Minnesota Twin Citi
 
 I major in Computer Science and love playing with well-designed structures. My research interests include system, compilers, computer architecture.
 
-CV: [中](resume/resume-zh.pdf)|[英](resume/resume-en.pdf)
+CV: [中](resume/resume-zh.pdf)|[Eng](resume/resume-en.pdf)
 
 Personal Website: [Kalorona - Personal Blog](https://kalorona.com)
 
