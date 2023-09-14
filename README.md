@@ -1,6 +1,6 @@
-# Chenxi Huang (黄晨曦)
+# Chenxi Huang
 
-Hi, Chenxi here. I am currently a sophomore at University of Minnesota Twin Cities. I was at Nanchang University before I transferred to U of M.
+Hi, Chenxi here. I am currently a sophomore at University of Minnesota Twin Cities.
 
 I major in Computer Science and love playing with well-designed structures. My research interests include system, compilers, computer architecture.
 
