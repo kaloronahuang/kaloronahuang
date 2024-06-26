@@ -1,7 +1,7 @@
 # Chenxi Huang
 
-Hi, Chenxi here. I am currently a rising senior at University of Minnesota Twin Cities.
+> Playing with well-designed structures.
 
-I major in Computer Science and love playing with well-designed structures. My research interests include system, compilers, computer architecture.
+Hi, Chenxi here. I am currently a rising senior at University of Minnesota Twin Cities.
 
 Personal Website: [Kalorona - Personal Blog](https://kalorona.com)
